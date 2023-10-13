@@ -1,0 +1,2 @@
+# .netFrameWork
+vb.netGameWorkIDE
